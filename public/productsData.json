@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Fluent Forms",
+    "img": "./assets/products/icon-256x256-1-2.png",
+    "des": "Fastest & Advanced Contact Form Builder Plugin for WordPress powering 300,000+ businesses worldwide"
+  },
+  {
+    "id": "2",
+    "name": "Fluent CRM",
+    "img": "./assets/products/icon2.png",
+    "des": "Email Marketing Automation, Email Newsletter & CRM Plugin for WordPress. Powering 30,000+ websites to scale their marketing."
+  },
+  {
+    "id": "3",
+    "name": "Ninja Tables",
+    "img": "./assets/products/icon3.png",
+    "des": "The Best and most advanced table plugin is powering more than 80 thousand websites worldwide."
+  },
+  {
+    "id": "4",
+    "name": "Social Ninja",
+    "img": "./assets/products/icon4.png",
+    "des": "The all-in-one WordPress Social Media Plugin for Social Reviews, Feeds, and Social Chat powering 10,000+ websites."
+  },
+  {
+    "id": "5",
+    "name": "Fluent Support",
+    "img": "./assets/products/icon5.png",
+    "des": "Customer service made fast, fun, and fluent. WordPress Helpdesk and Customer Support Ticket Plugin"
+  },
+  {
+    "id": "6",
+    "name": "FluentSMTP",
+    "img": "./assets/products/icon6.png",
+    "des": "The Most Feature Rich and Light-Weight WordPress SMTP and PHP Mailer Plugin used by 70,000+ websites."
+  }
+]
