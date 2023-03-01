@@ -1,0 +1,14 @@
+#card {
+  border: none;
+  background-color: #edf2f7;
+}
+#card:hover {
+  background-color: #d7ecfb;
+}
+#glance_card {
+  border: none;
+  background-color: white;
+}
+#glance_card:hover {
+  background-color: #f7ffd8;
+}
