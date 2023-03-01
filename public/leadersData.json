@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Md Shahjahan",
+    "designation": "Founder & Managing Director",
+    "description": "A passionate technology enthusiasts, spent the last decade shaping business ideas to life.",
+    "img": "./assets/leaders/Shahjahan-Jewel-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sheikh Heera",
+    "designation": "CTO & Platform Architect",
+    "description": "Being in the top 0.09% overall in StackOverflow, the Gospel to the programmers, shows his passion.",
+    "img": "./assets/leaders/heera.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Faizus Saleheen",
+    "designation": "Chief Marketing Officer",
+    "description": "Add value to the users' lives, they'll do the marketing for you—he lives by this code wholeheartedly.",
+    "img": "./assets/leaders/Joos.png"
+  },
+  {
+    "id": 4,
+    "name": "MD Mahmudul Hasan",
+    "designation": "Director of Engineering",
+    "description": "Every problem can be solved—the mindset that makes him the go-to-guy for the engineering team.",
+    "img": "./assets/leaders/arif.jpeg"
+  }
+]
