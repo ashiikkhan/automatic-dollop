@@ -7,7 +7,7 @@ const AtGlanceComp = () => {
   const [glances, setGlances] = useGlanceData();
   return (
     <div className="text-center p-4" style={{ backgroundColor: "#EDF2F7" }}>
-      <h1>authLab at a Glance</h1>
+      <h2 className="pb-4">authLab at a Glance</h2>
       <div className="container">
         <div className="row">
           {glances.map((item) => (
@@ -20,11 +20,11 @@ const AtGlanceComp = () => {
                 <Card.Img
                   variant="top"
                   src={item.img}
-                  className="w-25 ms-auto me-auto"
+                  className="w-50 w-sm-25 ms-auto me-auto"
                 />
                 <Card.Body>
-                  <Card.Title>{item.title}</Card.Title>
-                  <Card.Text>{item.des}</Card.Text>
+                  <Card.Title className="fs-2 fw-bold">{item.title}</Card.Title>
+                  <Card.Text className="fs-6">{item.des}</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
