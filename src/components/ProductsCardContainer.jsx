@@ -17,7 +17,7 @@ const ProductsCardContainer = () => {
           business.
         </p>
       </div>
-      <Container fluid className="d-flex flex-wrap p-3">
+      <Container fluid className="d-flex flex-wrap p-3 ms-2">
         <Row className="w-100 text-center">
           {products.map((product) => (
             <ProductCard product={product} key={product.id}></ProductCard>
