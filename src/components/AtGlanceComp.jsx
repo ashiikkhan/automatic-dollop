@@ -3,7 +3,7 @@ import { Card, Col } from "react-bootstrap";
 import useGlanceData from "../hooks/useGlanceData";
 
 const AtGlanceComp = () => {
-  const array = [1, 2, 3, 4];
+  // const array = [1, 2, 3, 4];
   const [glances, setGlances] = useGlanceData();
   return (
     <div className="text-center p-4" style={{ backgroundColor: "#EDF2F7" }}>
@@ -11,7 +11,7 @@ const AtGlanceComp = () => {
       <div className="container">
         <div className="row">
           {glances.map((item) => (
-            <Col md={3} sm={12} className="pb-4">
+            <Col md={3} sm={12} className="pb-4" key={item.id}>
               <Card
                 style={{ width: "100%", borderRadius: 0 }}
                 className="p-4"

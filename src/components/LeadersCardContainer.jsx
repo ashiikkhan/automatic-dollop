@@ -5,7 +5,7 @@ import LeadersCard from "./LeadersCard";
 
 const LeadersCardContainer = () => {
   const [leaders, setLeaders] = useLeadersData();
-  console.log(leaders);
+  // console.log(leaders);
   return (
     <div className="overflow-hidden p-2 mb-2">
       <div className="container text-center p-4">

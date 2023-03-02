@@ -28,7 +28,7 @@ const Hero = () => {
               title="youtube-video"
               className="embed-responsive-item"
               src="https://www.youtube.com/embed/7Z3rmVtyTrI?feature=oembed"
-              allowfullscreen
+              allowFullScreen
             ></iframe>
           </div>
         </Col>
